@@ -10,6 +10,7 @@ public class ExampleApplication {
 		SpringApplication.run(ExampleApplication.class, args);
 		System.out.println("Changes");
 		System.out.println("Branch merged.");
+		System.out.println("Fetching");
 	}
 
 }
