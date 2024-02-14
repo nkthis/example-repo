@@ -9,8 +9,6 @@ public class ExampleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ExampleApplication.class, args);
 		System.out.println("Changes");
-		System.out.println("Branch merged.");
-		
 		System.out.println("3 way testing in branch_to_be_merged branch");
 	}
 
