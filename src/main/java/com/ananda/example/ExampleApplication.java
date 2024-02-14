@@ -11,6 +11,7 @@ public class ExampleApplication {
 		System.out.println("Changes");
 		System.out.println("3 way testing in branch_to_be_merged branch");
 		System.out.println("Changed done here but not pulled in branch_to_be_merged branch");
+		System.out.println("Changes for rebasing");
 	}
 
 }
